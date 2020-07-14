@@ -6,6 +6,9 @@
 
 #### Useful links:
 ##### Tutorials
+* https://blog.avenuecode.com/java-microbenchmarks-with-jmh-part-1
+* https://blog.avenuecode.com/java-microbenchmarks-with-jmh-part-2
+* https://blog.avenuecode.com/java-microbenchmarks-with-jmh-part-3
 * https://mkyong.com/java/java-jmh-benchmark-tutorial/
 * http://tutorials.jenkov.com/java-performance/jmh.html
 * https://www.youtube.com/watch?v=Bi0E7w1ZFFA
